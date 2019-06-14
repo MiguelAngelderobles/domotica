@@ -15,12 +15,12 @@ public class ControlRemoto {
     }
 
     public void botonOnEjecutado(int numeroSlot) {
-        Command command=commandControl.stream().findAny(commandControl.get(numeroSlot));
+        Command command=commandControl.get(numeroSlot);
         command.executed();
     }
 
     public void botonOffnEjecutado(int numeroSlot) {
-        Command command=commandControl.stream().findAny(commandControl.get(numeroSlot));
+        Command command=commandControl.get(numeroSlot);
         command.executed();
     }
 
