@@ -6,4 +6,8 @@ public class CommandLuzExtOff implements Command {
     public void executed() {
         luzExterior.off();
     }
+
+    public CommandLuzExtOff(LuzExterior luzExterior) {
+        this.luzExterior = luzExterior;
+    }
 }

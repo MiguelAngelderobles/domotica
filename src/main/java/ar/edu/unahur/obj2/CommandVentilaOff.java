@@ -6,4 +6,8 @@ public class CommandVentilaOff implements Command {
     public void executed() {
         ventiladorDeTecho.apagar();
     }
+
+    public CommandVentilaOff(VentiladorDeTecho ventiladorDeTecho) {
+        this.ventiladorDeTecho = ventiladorDeTecho;
+    }
 }

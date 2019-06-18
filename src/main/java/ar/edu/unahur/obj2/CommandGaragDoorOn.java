@@ -5,5 +5,10 @@ public class CommandGaragDoorOn implements Command {
 
     public void executed() {
         puertaGarage.arriba();
+        puertaGarage.encenderLuz();
+    }
+
+    public CommandGaragDoorOn(PuertaGarage puertaGarage) {
+        this.puertaGarage = puertaGarage;
     }
 }

@@ -5,4 +5,8 @@ public class CommandTvOn implements Command {
     public void executed() {
         television.on();
     }
+
+    public CommandTvOn(Television television) {
+        this.television = television;
+    }
 }

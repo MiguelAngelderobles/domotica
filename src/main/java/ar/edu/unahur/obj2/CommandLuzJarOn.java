@@ -5,4 +5,8 @@ public class CommandLuzJarOn implements Command{
     public void executed() {
         luzJardin.manualOn();
     }
+
+    public CommandLuzJarOn(LuzJardin luzJardin) {
+        this.luzJardin = luzJardin;
+    }
 }

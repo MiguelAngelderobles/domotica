@@ -6,5 +6,10 @@ public class CommandLuzTecOn implements Command{
 
     public void executed() {
         luzTecho.on();
+        luzTecho.dim();
+    }
+
+    public CommandLuzTecOn(LuzTecho luzTecho) {
+        this.luzTecho = luzTecho;
     }
 }

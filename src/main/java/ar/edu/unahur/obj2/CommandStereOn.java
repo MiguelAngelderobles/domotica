@@ -6,4 +6,8 @@ public class CommandStereOn implements Command{
     public void executed() {
         stereo.on();
     }
+
+    public CommandStereOn(Stereo stereo) {
+        this.stereo = stereo;
+    }
 }

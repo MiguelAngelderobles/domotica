@@ -5,4 +5,8 @@ public class CommandLuzExtOn implements Command {
     public void executed() {
         luzExterior.on();
     }
+
+    public CommandLuzExtOn(LuzExterior luzExterior) {
+        this.luzExterior = luzExterior;
+    }
 }

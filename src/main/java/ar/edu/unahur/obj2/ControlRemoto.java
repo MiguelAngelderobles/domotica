@@ -4,24 +4,29 @@ import java.util.List;
 import java.util.Optional;
 
 public class ControlRemoto {
-    private List<Command> commandControl;
+    private List<Command> commandControlon;
+    private List<Command> commandControloff;
+    public ControlRemoto(List<Command> commandControlon,List<Command> commandControloff) {
 
-    public ControlRemoto(List<Command> commandControl) {
-        this.commandControl = commandControl;
+        this.commandControlon = commandControlon;
+        this.commandControloff=commandControloff;
     }
 
-    public void setCommandControl(List<Command> commandControl) {
-        this.commandControl = commandControl;
+    public void setCommandControlon(Command command) {
+        commandControlon.add(command);
+    }
+
+    public void setGetCommandControloff(List<Command> getCommandControloff) {
+        this.commandControloff = getCommandControloff;
     }
 
     public void botonOnEjecutado(int numeroSlot) {
-        Command command=commandControl.get(numeroSlot);
-        command.executed();
+        commandControlon.get(numeroSlot).executed();
+
     }
 
     public void botonOffnEjecutado(int numeroSlot) {
-        Command command=commandControl.get(numeroSlot);
-        command.executed();
+        commandControloff.get(numeroSlot).executed();
     }
 
 }

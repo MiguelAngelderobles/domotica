@@ -5,4 +5,8 @@ public class CommandLuzTecOff implements Command {
     public void executed() {
         luzTecho.off();
     }
+
+    public CommandLuzTecOff(LuzTecho luzTecho) {
+        this.luzTecho = luzTecho;
+    }
 }

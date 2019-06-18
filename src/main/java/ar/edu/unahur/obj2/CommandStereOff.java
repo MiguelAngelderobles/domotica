@@ -5,4 +5,8 @@ public class CommandStereOff implements Command{
     public void executed() {
         stereo.off();
     }
+
+    public CommandStereOff(Stereo stereo) {
+        this.stereo = stereo;
+    }
 }

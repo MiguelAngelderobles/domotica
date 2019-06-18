@@ -5,4 +5,8 @@ public class CommandTvOff implements Command {
     public void executed() {
         television.off();
     }
+
+    public CommandTvOff(Television television) {
+        this.television = television;
+    }
 }
