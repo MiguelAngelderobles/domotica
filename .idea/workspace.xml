@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bba0128c-db55-4dcb-a0d5-4ae9f6b17193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandGaragDoorOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandGaragDoorOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandGaragDoorOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandGaragDoorOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzExtOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzExtOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzExtOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzExtOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzJarOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzJarOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzJarOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzJarOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzTecOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzTecOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzTecOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandLuzTecOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandStereOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandStereOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandStereOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandStereOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandTvOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandTvOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandTvOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandTvOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/ControlRemoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/ControlRemoto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="bba0128c-db55-4dcb-a0d5-4ae9f6b17193" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +71,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="224">
               <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,13 +172,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandTvOn.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOff.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/CommandVentilaOn.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/ControlRemoto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="960" />
     <option name="y" value="28" />
     <option name="width" value="960" />
@@ -278,8 +259,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560897802893" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guia-ejercicios-patrones-MiguelAngelderobles" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560898018175" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -360,9 +341,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="26" width="1926" height="1028" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27267876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27267876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,12 +351,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32668883" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32668883" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32890365" />
@@ -652,16 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/LuzExterior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -681,9 +651,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ar/edu/unahur/obj2/ControlRemotoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ar/edu/unahur/obj2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="224">
           <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
